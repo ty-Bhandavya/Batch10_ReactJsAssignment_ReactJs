@@ -1,0 +1,12 @@
+#mount{
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #counter{
+    font-size: 5rem;
+  }
+  
+  
